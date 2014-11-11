@@ -4,8 +4,8 @@
 <html ng-app="todoApp">
   <head>
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.2/angular.min.js"></script>
-    <script src="todo.js"></script>
-    <link rel="stylesheet" href="todo.css">
+    <script src="resources/todo.js"></script>
+    <link rel="stylesheet" href="resources/todo.css">
   </head>
   <body>
   	<h2>Todo</h2>
